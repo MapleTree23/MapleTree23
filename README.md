@@ -3,9 +3,7 @@ Thanks for visiting my Git!
 ❤ Visitor Counts ❤
 
 
-
 Welcome
-
 
 Highlights
 Front-end	Back-end	Full Stack	API Development
