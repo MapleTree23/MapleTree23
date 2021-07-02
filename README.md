@@ -11,4 +11,4 @@ My Stacks
 * 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
-Here is my [eMail](mailto:apolo40423@gmail.com?Subject=Hello%20Super!)  [Skype](https://join.skype.com/invite/wpiow8qFNqHQ)
+Here is my [eMail](mailto:apolo40423@gmail.com?Subject=Hello%20Super!) and [Skype](https://join.skype.com/invite/wpiow8qFNqHQ)
