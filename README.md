@@ -14,4 +14,4 @@ My Stacks
 
 
 
-Here is my [eMail](mailto:apolo40423@gmail.com?Subject=Hello%20Super!) , [Skype](https://join.skype.com/invite/wpiow8qFNqHQ) , [Telegram](https://t.me/WebDeveloper423) and [Discord](https://discord.gg/gwuRBwJ3)
+Here is my [eMail](mailto:apolo40423@gmail.com?Subject=Hello%20Super!) , [Skype](https://join.skype.com/invite/wpiow8qFNqHQ) , [Telegram](https://t.me/apolo423) and [Discord](https://discord.gg/gwuRBwJ3)
